@@ -1,5 +1,5 @@
-// Type definitions for XLSX-Populate
-// Project: https://github.com/dtjohnson/xlsx-populate
+// Type definitions for @ngsma/XLSX-Populate
+// Project: https://github.com/xlat/xlsx-populate
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 3.4
 export = XlsxPopulate

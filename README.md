@@ -1,4 +1,4 @@
-# Typescript Types for XLSX-Populate
+# Typescript Types for @ngsma/XLSX-Populate
 Note: they are not yet ready/finish! Please help to improve/test/etc... with a merge request.
 
 ## Installation
@@ -6,13 +6,13 @@ This is not yet published in [DefinitelyTyped](https://github.com/DefinitelyType
 
 ```
 "dependencies": {
-    "@types/xlsx-populate": "git+https://github.com/JanLoebel/types-xlsx-populate.git"
+    "@types/ngsma__xlsx-populate": "git+https://github.com/xlat/types-xlsx-populate.git"
 },
 ```
 
 Run `npm install` and that's it.
 
 ## Summary
-This package contains type definitions for XLSX-Populate (https://github.com/dtjohnson/xlsx-populate).
+This package contains type definitions for @ngsma/XLSX-Populate (https://github.com/xlat/xlsx-populate).
 
 Please feel free to contribute!

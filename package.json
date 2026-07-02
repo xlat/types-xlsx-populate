@@ -1,20 +1,24 @@
 {
-  "description": "TypeScript definitions for XLSX-Populate",
+  "description": "TypeScript definitions for @ngsma/XLSX-Populate",
   "license": "MIT",
   "contributors": [
     {
       "name": "Jan Löbel",
       "url": "https://github.com/JanLoebel"
+    },
+    {
+      "name": "Nicolas Georges",
+      "url": "https://github.com/xlat"
     }
   ],
-  "name": "@types/xlsx-populate",
+  "name": "@types/ngsma__xlsx-populate",
   "repository": {
     "type": "git",
     "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
   },
   "devDependencies": {
     "@types/node": "^12.0.4",
-    "xlsx-populate": "1.19.1"
+    "@ngsma/xlsx-populate": "1.21.1"
   },
   "typeScriptVersion": "3.4",
   "version": "1.19.1"
